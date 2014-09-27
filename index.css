@@ -1,0 +1,23 @@
+#home{
+margin-left: 175px;
+margin-right: auto;
+margin-top: 5%;
+margin-bottom: 110px;
+border: solid 4px black;
+background: /Users/BG/Desktop/DBC STUFF/phase-0-unit-1/week-2/imgs/PR.jpg;
+position: absolute;
+}
+body{
+  background-color: gray;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+a {
+  color: orange;
+}
+a:hover{
+  text-decoration: none;
+  color: purple;
+}
